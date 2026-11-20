@@ -133,4 +133,4 @@ online-retail-sales-analysis/
 - **[SQL Analysis Script](sql/online_retail_analysis.sql)** — MySQL queries for data validation, cleaning, transformation, and reporting.
 - **[Power BI Dashboard](dashboard/online_retail.pbix)** — Interactive dashboard containing KPIs and analytical visualizations.
 - **[Dashboard Preview](dashboard/online_retail.jpg)** — Screenshot of the completed Power BI dashboard.
-- **[Project Presentation](presentation/online_retail_presentation.pdf)** — Full project documentation, findings, interpretations, and business recommendations.
+- **[Project Presentation](presentation/Online_Retail_Business_Project_Presentation.pdf)** — Full project documentation, findings, interpretations, and business recommendations.
