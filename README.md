@@ -81,4 +81,56 @@ The interactive Power BI dashboard provides an overview of retail sales performa
 
 The dashboard includes six analytical visualizations covering monthly revenue trends, sales by weekday and hour, top customers, top products, and geographic sales distribution. Interactive date and country slicers allow users to explore different segments of the data.
 
-[View Power BI Dashboard File](dashboard/online_retail_dashboard.pbix)
+[View Power BI Dashboard File](dashboard/online_retail.pbix)
+
+## Key Findings
+
+1. **Sales Performance:** Net sales reached approximately **£9.75 million**. November 2011 recorded the highest monthly revenue, indicating strong sales activity toward the end of the year. December 2011 contains only nine days of data and should not be interpreted as a full-month decline.
+
+2. **Purchasing Patterns:** Thursday generated the highest net sales at approximately **£2.11 million**. Hourly revenue peaked around **12 PM**, suggesting stronger purchasing activity during midday.
+
+3. **Customer Contributions:** Customer **14646** generated the highest revenue at approximately **£279.49K**, followed by customers **18102** and **17450**. These findings highlight the importance of high-value customers to overall revenue.
+
+4. **Product Performance:** **REGENCY CAKESTAND 3 TIER** was the highest-revenue product, contributing approximately **£164.46K**. Other leading products included **WHITE HANGING HEART T-LIGHT HOLDER** and **PARTY BUNTING**.
+
+5. **Geographic Distribution:** The **United Kingdom** accounted for approximately **£8.19 million**, representing around **84%** of total net sales. The Netherlands, Ireland (EIRE), and Germany were among the leading international markets.
+
+## Business Recommendations
+
+Based on the analytical findings, the following strategies are recommended:
+
+1. **Optimize Seasonal Sales Planning:** Prepare inventory, promotional campaigns, and operational resources ahead of high-demand periods, particularly the year-end shopping season.
+
+2. **Improve Marketing Campaign Timing:** Schedule targeted promotions around high-performing purchasing periods, particularly Thursdays and midday hours, while testing opportunities to improve sales during lower-performing periods.
+
+3. **Strengthen Customer Retention:** Develop personalized loyalty programs and targeted engagement strategies for high-value customers to encourage repeat purchases and maintain long-term revenue contributions.
+
+4. **Prioritize High-Performing Products:** Improve inventory planning and product promotion strategies for leading revenue-generating items while monitoring demand to reduce stockouts and excess inventory.
+
+5. **Explore International Market Opportunities:** Maintain a strong focus on the UK market while evaluating growth opportunities in the Netherlands, Ireland, and Germany through localized marketing and distribution strategies.
+
+These recommendations are based on historical transaction patterns and should be validated through further analysis and business testing before implementation.
+
+## Repository Structure
+
+```text
+online-retail-sales-analysis/
+├── README.md
+├── sql/
+│   ├── README.md
+│   └── online_retail_analysis.sql
+├── dashboard/
+│   ├── README.md
+│   ├── online_retail_dashboard.pbix
+│   └── dashboard_preview.png
+└── presentation/
+    ├── README.md
+    └── online_retail_presentation.pdf
+```
+
+## Project Files
+
+- **[SQL Analysis Script](sql/online_retail_analysis.sql)** — MySQL queries for data validation, cleaning, transformation, and reporting.
+- **[Power BI Dashboard](dashboard/online_retail.pbix)** — Interactive dashboard containing KPIs and analytical visualizations.
+- **[Dashboard Preview](dashboard/online_retail.jpg)** — Screenshot of the completed Power BI dashboard.
+- **[Project Presentation](presentation/online_retail_presentation.pdf)** — Full project documentation, findings, interpretations, and business recommendations.
