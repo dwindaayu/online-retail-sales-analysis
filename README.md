@@ -68,7 +68,7 @@ The interactive Power BI dashboard provides an overview of retail sales performa
 
 ### Dashboard Preview
 
-![Online Retail Power BI Dashboard](dashboard/dashboard_preview.png)
+![Online Retail Power BI Dashboard](dashboard/online_retail.jpg)
 
 ### Key Performance Indicators (KPIs)
 
