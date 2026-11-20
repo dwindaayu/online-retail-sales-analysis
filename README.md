@@ -134,3 +134,16 @@ online-retail-sales-analysis/
 - **[Power BI Dashboard](dashboard/online_retail.pbix)** — Interactive dashboard containing KPIs and analytical visualizations.
 - **[Dashboard Preview](dashboard/online_retail.jpg)** — Screenshot of the completed Power BI dashboard.
 - **[Project Presentation](presentation/Online_Retail_Business_Project_Presentation.pdf)** — Full project documentation, findings, interpretations, and business recommendations.
+
+## Data Source
+
+**Dataset:** Online Retail — UCI Machine Learning Repository  
+**Source:** https://archive.ics.uci.edu/dataset/352/online+retail
+
+## Author
+
+**Dwinda Ayu Prihantini**  
+Data Analytics Portfolio Project  
+**GitHub:** [@dwindaayu](https://github.com/dwindaayu)
+
+This project was developed for portfolio and educational purposes to demonstrate SQL-based data preparation, business intelligence reporting, and data-driven decision-making.
